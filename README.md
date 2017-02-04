@@ -1,2 +1,10 @@
-# surferide
-msw test
+# surferide project
+
+<h1>Surferide MSW Collaboration Project</h1>
+
+<h2>Description</h2>
+
+<p>For this project wave forecast data is accessed from the Magicseaweed API, and displayed/manipulated using Python and Javascript</p>
+
+
+
